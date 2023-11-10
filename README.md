@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer - Backend Developer | Node.js at Arab-Made
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, Python and Flutter or anything related to Software Development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, Python, Java, Flutter and LeetCode Problems or anything related to Software Development.
 - ⚡ Fun Fact: I'm a morning person, Passoinate about Literature and Poetry.
 
 
@@ -31,6 +31,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js%20-05122A?style=flat&logo=Express.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![LeetCode](https://img.shields.io/badge/-LeetCode-05122A?style=flat&logo=leetCode)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
