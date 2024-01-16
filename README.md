@@ -12,9 +12,10 @@
 </p> 
 
 - 🏢 I'm a Software Engineer - Backend Developer | Node.js at Arab-Made
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, Python, Java, Flutter and LeetCode Problems or anything related to Software Development.
-- ⚡ Fun Fact: I'm a morning person, Passoinate about Literature and Poetry.
+- 💻 Full Mern Stack Developer (React & Node.js) | Flutter Developer
+- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, Python, Java, Flutter, and LeetCode Problems or anything related to Software Development.
+- ⚡ Fun Fact: I'm a morning person, Passionate about Literature and Poetry.
 
 
 ### Connect with Me :
